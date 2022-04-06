@@ -1,5 +1,5 @@
 // JSX  
-export default function segundo() {
+export default function jsx1Diferente() {
   return (
     <div>
       <h1>Segundo</h1>
