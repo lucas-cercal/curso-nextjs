@@ -11,5 +11,5 @@ export default function jsx2() {
     <li>Página 2</li>,
     <li>Página 3</li>,
    ]
-  return array
+  return conteudo
 }
