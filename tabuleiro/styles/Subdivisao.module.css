@@ -1,5 +1,5 @@
 .subdivisao {
   width: 100px;
   height: 100px;
-  background-color: red;
+  box-shadow: 6px 6px 5px black;
 }
